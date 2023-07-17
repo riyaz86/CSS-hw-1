@@ -1,0 +1,215 @@
+
+#fb{
+    color: black;
+    background-image: url(../image/facebook.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#in{
+    color: wheat;
+    background-image: url(../image/INSTAGRAM.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#ms{
+    color: black;
+    background-image: url(../image/messenger2.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#ws{
+    color: rgb(54, 76, 122);
+    background-image: url(../image/whatsapp.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+#g{
+    color: rgb(54, 76, 122);
+    background-image: url(../image/gmail.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+
+#l{
+    color: rgb(8, 8, 8);
+    background-image: url(../image/linkedin.png);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#tw{
+    color: rgb(255, 255, 255);
+    background-image: url(../image/twitter.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#go{
+    color: rgb(255, 255, 255);
+    background-image: url(../image/google.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#re{
+    color: rgb(185, 145, 145);
+    background-image: url(../image/reddit.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#pi{
+    color: rgb(0, 0, 0);
+    background-image: url(../image/pinterest.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+
+#ne{
+    color: rgb(255, 255, 255);
+    background-image: url(../image/netfix.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+#eb{
+    color: rgb(255, 255, 255);
+    background-image: url(../image/eBay.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+#fi{
+    color: rgb(0, 0, 0);
+    background-image: url(../image/fiverr.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+#yt{
+    color: rgb(0, 0, 0);
+    background-image: url(../image/YouTube.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+}
+
+#id{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+    
+    border-radius: 10px;
+    color: black;
+    background-color: whitesmoke;
+    width: 120px;
+    height: 30px;
+    font-family: arial;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    transition: 0.4s;
+    border: 3px solid rgb(0, 0, 0);
+    
+}
+a:hover {
+    color: rgb(0, 255, 13);
+    background-color: rgb(82, 109, 145);
+    border: 3px solid whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
